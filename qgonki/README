@@ -1,0 +1,24 @@
+ - Qgonki -
+
+Qgonki to graficzna nak³adka na konewerter polskich znaków - plconv.
+Napisana jest w Qt. Do kompilacji wymaga jedynie Qt i jakiego¶
+UNIXa czy Linuxa.
+
+Aby skompilowaæ, wpisz:
+ $ make
+ 
+A ¿eby zainstalowaæ, jako root wpisz:
+ # make install
+ 
+Program na licencji GPL, autorem jest Marcin Wrochniak.
+plconv zosta³ napisany przez Jaros³awa Strza³kowskiego,
+a poprawki przez Wojtka Bogusza (¿ród³a plconv
+znajduj± siê w src/plconv.c, jest on kompilowany 
+i instalowany razem z Qgonkami).
+ 
+To tyle :)
+
+-- 
+Marcin Wrochniak
+mailto:vrok@intersec.pl
+jabber:vrok@intersec.pl
