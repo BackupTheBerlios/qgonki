@@ -5,7 +5,7 @@ Napisana jest w Qt. Do kompilacji wymaga jedynie Qt i jakiego¶
 UNIXa czy Linuxa.
 
 Aby skompilowaæ, wpisz:
- $ make
+ $ cd src && make
  
 A ¿eby zainstalowaæ, jako root wpisz:
  # make install
