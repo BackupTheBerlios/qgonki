@@ -225,8 +225,9 @@ void Qgonki::dir_click(QListViewItem * item)
        return;
  }else
  	tmp = directory+path + "/";
- 	
- change_dir(tmp);
+ 
+ if (info.isExecutable())	
+ 	change_dir(tmp);
 }
 
 void Qgonki::change_dir()

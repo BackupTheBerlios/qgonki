@@ -1,8 +1,8 @@
 /****************************************************************************
 ** Qgonki meta object code from reading C++ file 'qgonki.h'
 **
-** Created: Wed Jul 14 19:26:48 2004
-**      by: The Qt MOC ($Id: moc_qgonki.cpp,v 1.1 2004/07/31 09:02:54 vrok Exp $)
+** Created: Sat Jul 31 17:06:18 2004
+**      by: The Qt MOC ($Id: moc_qgonki.cpp,v 1.2 2004/07/31 15:10:40 vrok Exp $)
 **
 ** WARNING! All changes made in this file will be lost!
 *****************************************************************************/
@@ -14,7 +14,7 @@
 
 #include <private/qucomextra_p.h>
 #if !defined(Q_MOC_OUTPUT_REVISION) || (Q_MOC_OUTPUT_REVISION != 26)
-#error "This file was generated using the moc from 3.3.0. It"
+#error "This file was generated using the moc from 3.3.2. It"
 #error "cannot be used with the include files from this version of Qt."
 #error "(The moc has changed too much.)"
 #endif
